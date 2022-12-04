@@ -3,7 +3,7 @@ Based on script by Rockstar94. Edit by Maxonchis
 
 [RU]
 Для работы скрипта запускаем файл "runMe".
-Далее указывай полный путь к папке. Например E:\Giants Engine\YourFolder.
+Далее указываем полный путь к папке. Например E:\Giants Engine\YourFolder.
 Если скрипт находится рядом с вашей папкой, достаточно нажать Enter и он запустится из текущей папки.
 
 [EN]
