@@ -1,3 +1,6 @@
+shapesUnlocker for Farming Simulator
+Based on script by Rockstar94. Edit by Maxonchis
+
 [RU]
 Для работы скрипта запускаем файл "runMe".
 Далее указывай полный путь к папке. Например E:\Giants Engine\YourFolder.
